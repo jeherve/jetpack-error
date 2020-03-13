@@ -11,5 +11,6 @@ namespace Automattic\Jetpack;
 
 /**
  * Class Automattic\Jetpack\Error
+ * and a comment
  */
 class Error extends \WP_Error {}
